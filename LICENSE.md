@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright (c) 2013-2015 learnyounode contributors
+Copyright (c) 2013-2016 learnyounode contributors
 -------------------------------------------------
 
 *learnyounode contributors listed at <https://github.com/rvagg/learnyounode#contributors>*
